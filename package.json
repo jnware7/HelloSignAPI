@@ -1,0 +1,19 @@
+{
+  "name": "hellosignapi",
+  "version": "1.0.0",
+  "description": "Non-Embedded Signature Request",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnware7/HelloSignAPI.git"
+  },
+  "author": "Jeffrey Ware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnware7/HelloSignAPI/issues"
+  },
+  "homepage": "https://github.com/jnware7/HelloSignAPI#readme"
+}
