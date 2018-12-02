@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jnware7/HelloSignAPI/issues"
   },
-  "homepage": "https://github.com/jnware7/HelloSignAPI#readme"
+  "homepage": "https://github.com/jnware7/HelloSignAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
