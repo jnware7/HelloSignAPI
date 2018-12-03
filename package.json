@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jnware7/HelloSignAPI#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "hellosign-sdk": "^1.3.0"
   }
 }
